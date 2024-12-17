@@ -1,0 +1,22 @@
+h4, h3 {
+    padding: 10px 0;
+    text-align: left;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.feeling-button {
+    width: 150%;
+}
+
+.feeling-form {
+    width: 100%;
+}
+
+@media only screen and (max-width: 1000px) {
+    .feeling-button {
+        width: 3rem;
+    }
+}
